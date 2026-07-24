@@ -244,7 +244,3 @@ The dissertation covers the solar-physics background, datasets, preprocessing, f
 B.Tech — Information Technology  
 Guru Gobind Singh Indraprastha University (GGSIPU)
 """
-
-path = "/mnt/data/README.md"
-pypandoc.convert_text(readme, 'md', format='md', outputfile=path, extra_args=['--standalone'])
-print(f"Created {path}")
