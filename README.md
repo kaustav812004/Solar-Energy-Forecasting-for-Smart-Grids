@@ -1,7 +1,3 @@
-import pypandoc
-
-readme = r"""# Day-Ahead Solar PV Power Forecasting using LSTM and Transformer Models
-
 A final-year B.Tech major project focused on **24-hour day-ahead solar photovoltaic (PV) power forecasting** using historical PV generation and meteorological data. The project compares a **Persistence baseline**, **Long Short-Term Memory (LSTM)** network, and an attention-based **Transformer** model.
 
 ## Project Objective
