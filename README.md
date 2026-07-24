@@ -243,4 +243,3 @@ The dissertation covers the solar-physics background, datasets, preprocessing, f
 **Kaustav Ghosh**  
 B.Tech — Information Technology  
 Guru Gobind Singh Indraprastha University (GGSIPU)
-"""
